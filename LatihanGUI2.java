@@ -1,21 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package latihan_1_fauzan_kholid;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-/**
- *
- * @author User
- */
 public class LatihanGUI2 {
     //private JFrame frame;
-   // private JTextField tfNim, tfNama, tfUts, tfUas;
+    // private JTextField tfNim, tfNama, tfUts, tfUas;
     //private JTextArea resultArea;
     //private JButton btnCalculate;
 public static void main(String[] args) {
